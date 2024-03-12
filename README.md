@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋 
+### My name is NGURE FRANK, and I loooovvveee😍, like really loovveee....tech💕, especially the part where we build websites.🤗😁
 
 <!--
 **franko2K/franko2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
